@@ -1,15 +1,15 @@
 <h1 align="center">Rezha Julio</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+Cloud+Engineer;Distributed+Systems+%E2%80%A2+Observability+%E2%80%A2+Infrastructure;Co-organizer+%40+PyCon+Indonesia&font=Fira+Code&center=true&width=700&height=45&color=fff&pause=1000&size=22" alt="Backend & Cloud Engineer" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend,+Data+%26+Cloud+Engineer;Distributed+Systems+%E2%80%A2+Data+Pipelines+%E2%80%A2+MLOps;Co-organizer+%40+PyCon+Indonesia&font=Fira+Code&center=true&width=700&height=45&color=fff&pause=1000&size=22" alt="Backend, Data & Cloud Engineer" />
 </p>
 
 ## 👋 About
 
-Backend & cloud engineer with 11+ years building production systems — previously on financial data platforms at Gojek, ex-Traveloka. I work the full backend slice: API design, containers, deployment pipelines, and OpenTelemetry-based observability across GCP and AWS.
+Backend, data & cloud engineer with 11+ years building production systems — previously on financial data platforms at Gojek, ex-Traveloka. I work the full backend slice: API design, containers, deployment pipelines, and OpenTelemetry-based observability across GCP and AWS, with growing scope into data engineering and MLOps.
 
 I co-organize PyCon Indonesia and the PythonID meetup in Jakarta, and maintain open-source tooling used by developer communities.
 
-💼 Open to backend/cloud engineering opportunities — remote or Jakarta-based.
+💼 Open to backend/data/cloud engineering opportunities — remote or Jakarta-based.
 
 ## 🚀 Featured projects
 
@@ -17,6 +17,25 @@ I co-organize PyCon Indonesia and the PythonID meetup in Jakarta, and maintain o
 - **telegateway** *(private repo)* — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability.
 - **[tgnotify](https://github.com/rezhajulio/tgnotify)** — Telegram notification CLI; cross-compiled binaries for Linux, macOS, and Windows.
 - **[workspaces-sidebar](https://github.com/rezhajulio/workspaces-sidebar)** — Pinned workspaces sidebar plugin for Tern (Stencil's Rust-native terminal), written in Luau.
+
+## 📰 Latest blog posts
+
+<!-- BLOG-POSTS:START -->
+- [Maintaining a Mastodon fork with StGit](https://rezhajul.io/posts/maintaining-a-mastodon-fork-with-stgit/) — Oct 07, 2026
+- [Hardening Caddy with Coraza WAF and Fail2ban (And Almost Breaking Mastodon)](https://rezhajul.io/posts/hardening-caddy-with-coraza-waf-and-fail2ban/) — Sep 12, 2026
+- [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — Jul 17, 2026
+- [Giving pi a Memory: Wiring claude-mem Into the Coding Agent](https://rezhajul.io/posts/integrating-claude-mem-into-pi/) — Jul 13, 2026
+- [When Your Template Ships the Upgrade You Just Wrote](https://rezhajul.io/posts/when-your-template-ships-the-upgrade-you-just-wrote/) — Jul 12, 2026
+<!-- BLOG-POSTS:END -->
+
+## 🌍 Open-source contributions
+
+Latest merged PRs to projects outside my own.
+
+<!-- CONTRIBUTIONS:START -->
+- [theblazehen/awesome-tern#20](https://github.com/theblazehen/awesome-tern/pull/20) — Add workspaces-sidebar (Oct 09, 2026)
+- [luqman-v1/9router-go#13](https://github.com/luqman-v1/9router-go/pull/13) — fix(claude): support OAuth subscription connections end-to-end (Sep 18, 2026)
+<!-- CONTRIBUTIONS:END -->
 
 ## 🛠️ Tech stack
 
