@@ -20,6 +20,8 @@ I co-organize PyCon Indonesia and the PythonID meetup in Jakarta, and maintain o
 
 ## 📰 Latest blog posts
 
+⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
+
 <!-- BLOG-POSTS:START -->
 - [Maintaining a Mastodon fork with StGit](https://rezhajul.io/posts/maintaining-a-mastodon-fork-with-stgit/) — Oct 07, 2026
 - [Hardening Caddy with Coraza WAF and Fail2ban (And Almost Breaking Mastodon)](https://rezhajul.io/posts/hardening-caddy-with-coraza-waf-and-fail2ban/) — Sep 12, 2026
