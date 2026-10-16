@@ -51,6 +51,7 @@ Latest merged PRs to projects outside my own.
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
 </p>
 
 **Cloud & infrastructure**
@@ -62,6 +63,7 @@ Latest merged PRs to projects outside my own.
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white">
 </p>
 
 **Observability & data**
@@ -76,6 +78,7 @@ Latest merged PRs to projects outside my own.
   <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=googlebigquery&logoColor=white">
   <img alt="Amazon Redshift" src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF.svg">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?logo=redis&logoColor=white">
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C.svg?logo=apachespark&logoColor=white">
 </p>
 
 ## 🤝 Community
