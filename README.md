@@ -59,6 +59,8 @@ Latest merged PRs to projects outside my own.
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonwebservices&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
 </p>
 
@@ -68,6 +70,12 @@ Latest merged PRs to projects outside my own.
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7.svg?logo=opentelemetry&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apachekafka&logoColor=white">
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE.svg?logo=apacheairflow&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=googlebigquery&logoColor=white">
+  <img alt="Amazon Redshift" src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF.svg">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?logo=redis&logoColor=white">
 </p>
 
 ## 🤝 Community
