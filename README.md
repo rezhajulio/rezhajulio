@@ -54,6 +54,9 @@ Latest merged PRs to projects outside my own.
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Django REST framework" src="https://img.shields.io/badge/Django_REST_Framework-092E20.svg">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
 </p>
 
 **Cloud & infrastructure**
