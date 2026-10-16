@@ -59,6 +59,7 @@ Latest merged PRs to projects outside my own.
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonwebservices&logoColor=white">
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900.svg?logo=awslambda&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
@@ -71,6 +72,7 @@ Latest merged PRs to projects outside my own.
 <p>
   <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7.svg?logo=opentelemetry&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apachekafka&logoColor=white">
