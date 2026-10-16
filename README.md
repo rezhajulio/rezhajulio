@@ -7,7 +7,7 @@
 
 Backend, data & cloud engineer with 11+ years building production systems — previously on financial data platforms at Gojek, ex-Traveloka. I work the full backend slice: API design, containers, deployment pipelines, and OpenTelemetry-based observability across GCP and AWS, with growing scope into data engineering and MLOps.
 
-I co-organize PyCon Indonesia and the PythonID meetup in Jakarta, and maintain open-source tooling used by developer communities.
+I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (2016–2020) — and maintain open-source tooling used by developer communities.
 
 💼 Open to backend/data/cloud engineering opportunities — remote or Jakarta-based.
 
@@ -73,7 +73,7 @@ Latest merged PRs to projects outside my own.
 ## 🤝 Community
 
 - Co-organizer — **PyCon Indonesia**
-- Co-organizer — **PythonID meetup** (Jakarta)
+- Co-organizer — **PythonID meetup** (Jakarta, 2016–2020)
 - Maintainer — **PythonID-bot**, Telegram bot for a ~24k-developer community
 
 ## 🌱 Currently
@@ -84,8 +84,3 @@ Sharpening **Rust** — most recently through telegateway (Axum, SQLite outbox, 
 
 - 🌐 Blog: [rezhajul.io](https://rezhajul.io)
 - ✉️ Email: contact@rezhajulio.id
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezhajulio&show_icons=true" alt="Rezha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezhajulio&layout=compact" alt="Top languages" />
-</p>
