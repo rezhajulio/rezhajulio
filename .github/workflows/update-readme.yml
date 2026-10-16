@@ -1,0 +1,33 @@
+name: Update README (blog posts & contributions)
+
+on:
+  schedule:
+    # daily at 08:00 WIB
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Refresh auto-updated README sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Rezha Julio"
+          git config user.email "contact@rezhajulio.id"
+          git add README.md
+          git diff --cached --quiet || git commit -m "docs: refresh latest blog posts and open-source contributions"
+          git push
