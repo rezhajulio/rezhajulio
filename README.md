@@ -5,7 +5,7 @@
 
 ## 👋 About
 
-Backend, data & cloud engineer with 11+ years building production systems — previously on financial data platforms at Gojek, ex-Traveloka. I work the full backend slice: API design, containers, deployment pipelines, and OpenTelemetry-based observability across GCP and AWS, with growing scope into data engineering and MLOps.
+Backend, data & cloud engineer with 11+ years building production systems — currently Data Engineer at GoTo Financial (Gojek), ex-Traveloka. I work the full backend slice: API design, containers, deployment pipelines, and OpenTelemetry-based observability across GCP and AWS, with growing scope into data engineering and MLOps.
 
 I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (2016–2020) — and maintain open-source tooling used by developer communities.
 
