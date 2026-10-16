@@ -14,7 +14,7 @@ I co-organize PyCon Indonesia and the PythonID meetup in Jakarta, and maintain o
 ## 🚀 Featured projects
 
 - **[PythonID-bot](https://github.com/rezhajulio/PythonID-bot)** — Telegram bot serving Indonesia's Python community (~24k developers). aiogram 3.31, APScheduler, 1,272 tests, CI across Python 3.11–3.15.
-- **telegateway** *(private repo)* — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability.
+- **[telegateway](https://github.com/rezhajulio/telegateway)** — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability. [v0.1.0 on crates.io](https://crates.io/crates/telegateway).
 - **[tgnotify](https://github.com/rezhajulio/tgnotify)** — Telegram notification CLI; cross-compiled binaries for Linux, macOS, and Windows.
 - **[workspaces-sidebar](https://github.com/rezhajulio/workspaces-sidebar)** — Pinned workspaces sidebar plugin for Tern (Stencil's Rust-native terminal), written in Luau.
 
