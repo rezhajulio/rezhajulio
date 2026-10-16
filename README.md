@@ -17,6 +17,8 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 - **[telegateway](https://github.com/rezhajulio/telegateway)** — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability. [v0.1.0 on crates.io](https://crates.io/crates/telegateway).
 - **[tgnotify](https://github.com/rezhajulio/tgnotify)** — Telegram notification CLI; cross-compiled binaries for Linux, macOS, and Windows.
 - **[workspaces-sidebar](https://github.com/rezhajulio/workspaces-sidebar)** — Pinned workspaces sidebar plugin for Tern (Stencil's Rust-native terminal), written in Luau.
+- **[omp-model-profiles](https://github.com/rezhajulio/omp-model-profiles)** — Dynamic model profile switcher for Oh My Pi (OMP); swap agent model configs on the fly. TypeScript, Bun.
+- **[laya-mlx-jev-endpoint](https://github.com/rezhajulio/laya-mlx-jev-endpoint)** — FastAPI endpoint exposing laya-mlx on Apple Silicon, mimicking the JEV / System-1 decision API.
 
 ## 📰 Latest blog posts
 
