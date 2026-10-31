@@ -25,11 +25,11 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
 
 <!-- BLOG-POSTS:START -->
+- [Moving Mastodon search from Elasticsearch to ParadeDB](https://rezhajul.io/posts/moving-mastodon-search-to-paradedb/) — Oct 30, 2026
 - [Maintaining a Mastodon fork with StGit](https://rezhajul.io/posts/maintaining-a-mastodon-fork-with-stgit/) — Oct 07, 2026
 - [Hardening Caddy with Coraza WAF and Fail2ban (And Almost Breaking Mastodon)](https://rezhajul.io/posts/hardening-caddy-with-coraza-waf-and-fail2ban/) — Sep 12, 2026
 - [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — Jul 17, 2026
 - [Giving pi a Memory: Wiring claude-mem Into the Coding Agent](https://rezhajul.io/posts/integrating-claude-mem-into-pi/) — Jul 13, 2026
-- [When Your Template Ships the Upgrade You Just Wrote](https://rezhajul.io/posts/when-your-template-ships-the-upgrade-you-just-wrote/) — Jul 12, 2026
 <!-- BLOG-POSTS:END -->
 
 ## 🌍 Open-source contributions
