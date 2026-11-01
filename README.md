@@ -25,11 +25,11 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
 
 <!-- BLOG-POSTS:START -->
+- [How git worktree actually works](https://rezhajul.io/posts/how-git-worktree-actually-works/) — Oct 31, 2026
 - [Moving Mastodon search from Elasticsearch to ParadeDB](https://rezhajul.io/posts/moving-mastodon-search-to-paradedb/) — Oct 30, 2026
 - [Maintaining a Mastodon fork with StGit](https://rezhajul.io/posts/maintaining-a-mastodon-fork-with-stgit/) — Oct 07, 2026
 - [Hardening Caddy with Coraza WAF and Fail2ban (And Almost Breaking Mastodon)](https://rezhajul.io/posts/hardening-caddy-with-coraza-waf-and-fail2ban/) — Sep 12, 2026
 - [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — Jul 17, 2026
-- [Giving pi a Memory: Wiring claude-mem Into the Coding Agent](https://rezhajul.io/posts/integrating-claude-mem-into-pi/) — Jul 13, 2026
 <!-- BLOG-POSTS:END -->
 
 ## 🌍 Open-source contributions
@@ -37,6 +37,7 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 Latest merged PRs to projects outside my own.
 
 <!-- CONTRIBUTIONS:START -->
+- [luqman-v1/9router-go#822](https://github.com/luqman-v1/9router-go/pull/822) — fix(commandcode): parity with upstream CLI 1.88.0 identity, tool-call finish reasons, real usage (Oct 31, 2026)
 - [theblazehen/awesome-tern#20](https://github.com/theblazehen/awesome-tern/pull/20) — Add workspaces-sidebar (Oct 09, 2026)
 - [luqman-v1/9router-go#13](https://github.com/luqman-v1/9router-go/pull/13) — fix(claude): support OAuth subscription connections end-to-end (Sep 18, 2026)
 <!-- CONTRIBUTIONS:END -->
