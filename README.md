@@ -25,11 +25,11 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
 
 <!-- BLOG-POSTS:START -->
+- [Serving this blog over Gemini](https://rezhajul.io/posts/serving-this-blog-over-gemini/) — Nov 04, 2026
 - [I built a DNS bot with no server to run](https://rezhajul.io/posts/i-built-a-dns-bot-with-no-server-to-run/) — Nov 01, 2026
 - [How git worktree actually works](https://rezhajul.io/posts/how-git-worktree-actually-works/) — Oct 31, 2026
 - [Moving Mastodon search from Elasticsearch to ParadeDB](https://rezhajul.io/posts/moving-mastodon-search-to-paradedb/) — Oct 30, 2026
 - [Maintaining a Mastodon fork with StGit](https://rezhajul.io/posts/maintaining-a-mastodon-fork-with-stgit/) — Oct 07, 2026
-- [Hardening Caddy with Coraza WAF and Fail2ban (And Almost Breaking Mastodon)](https://rezhajul.io/posts/hardening-caddy-with-coraza-waf-and-fail2ban/) — Sep 12, 2026
 <!-- BLOG-POSTS:END -->
 
 ## 🌍 Open-source contributions
