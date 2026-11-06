@@ -40,6 +40,8 @@ Latest merged PRs to projects outside my own.
 - [luqman-v1/9router-go#822](https://github.com/luqman-v1/9router-go/pull/822) — fix(commandcode): parity with upstream CLI 1.88.0 identity, tool-call finish reasons, real usage (Oct 31, 2026)
 - [theblazehen/awesome-tern#20](https://github.com/theblazehen/awesome-tern/pull/20) — Add workspaces-sidebar (Oct 09, 2026)
 - [luqman-v1/9router-go#13](https://github.com/luqman-v1/9router-go/pull/13) — fix(claude): support OAuth subscription connections end-to-end (Sep 18, 2026)
+- [PegelinuxTop/fedi.my.id#13](https://github.com/PegelinuxTop/fedi.my.id/pull/13) — Merge upstream (Apr 16, 2026)
+- [PegelinuxTop/fedi.my.id#12](https://github.com/PegelinuxTop/fedi.my.id/pull/12) — Merge upstream (Feb 19, 2026)
 <!-- CONTRIBUTIONS:END -->
 
 ## 🛠️ Tech stack
