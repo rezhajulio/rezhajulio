@@ -25,7 +25,7 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
 
 <!-- BLOG-POSTS:START -->
-- [Porting Synccit to Go](https://rezhajul.io/posts/porting-synccit-to-go/) — Nov 06, 2026
+- [Porting Synccit to Go](https://rezhajul.io/posts/porting-synccit-to-go/) — Nov 08, 2026
 - [Serving this blog over Gemini](https://rezhajul.io/posts/serving-this-blog-over-gemini/) — Nov 04, 2026
 - [I built a DNS bot with no server to run](https://rezhajul.io/posts/i-built-a-dns-bot-with-no-server-to-run/) — Nov 01, 2026
 - [How git worktree actually works](https://rezhajul.io/posts/how-git-worktree-actually-works/) — Oct 31, 2026
