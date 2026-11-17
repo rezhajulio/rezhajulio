@@ -13,7 +13,7 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 
 ## 🚀 Featured projects
 
-- **[PythonID-bot](https://github.com/TayoBus/PythonID-bot)** — Telegram bot serving Indonesia's Python community (~24k developers). aiogram 3.31, APScheduler, 1,178 tests, CI across Python 3.11–3.15.
+- **[PythonID-bot](https://github.com/rezhajulio/PythonID-bot)** — Telegram bot serving Indonesia's Python community (~24k developers). aiogram 3.31, APScheduler, 1,272 tests, CI across Python 3.11–3.15.
 - **[telegateway](https://github.com/rezhajulio/telegateway)** — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability. [v0.1.4 on crates.io](https://crates.io/crates/telegateway).
 - **[synccit-go](https://github.com/rezhajulio/synccit-go)** — Go + SQLite port of Synccit: syncs Reddit history between devices. API-only, CLI-managed accounts, registration locked by default.
 - **[komikku](https://github.com/rezhajulio/komikku)** — My fork of the Komikku manga reader for Android: dev releases, upstream syncs, and Foldchiyomi reader ports (cover screen, page-turn sound).
