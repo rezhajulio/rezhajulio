@@ -14,7 +14,9 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ## 🚀 Featured projects
 
 - **[PythonID-bot](https://github.com/rezhajulio/PythonID-bot)** — Telegram bot serving Indonesia's Python community (~24k developers). aiogram 3.31, APScheduler, 1,272 tests, CI across Python 3.11–3.15.
-- **[telegateway](https://github.com/rezhajulio/telegateway)** — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability. [v0.1.0 on crates.io](https://crates.io/crates/telegateway).
+- **[telegateway](https://github.com/rezhajulio/telegateway)** — Reverse-proxy gateway for Telegram bots in Rust (Axum): webhook ingress, per-chat rate limiting, durable SQLite outbox delivery, OpenTelemetry observability. [v0.1.4 on crates.io](https://crates.io/crates/telegateway).
+- **[synccit-go](https://github.com/rezhajulio/synccit-go)** — Go + SQLite port of Synccit: syncs Reddit history between devices. API-only, CLI-managed accounts, registration locked by default.
+- **[komikku](https://github.com/rezhajulio/komikku)** — My fork of the Komikku manga reader for Android: dev releases, upstream syncs, and Foldchiyomi reader ports (cover screen, page-turn sound).
 - **[tgnotify](https://github.com/rezhajulio/tgnotify)** — Telegram notification CLI; cross-compiled binaries for Linux, macOS, and Windows.
 - **[workspaces-sidebar](https://github.com/rezhajulio/workspaces-sidebar)** — Pinned workspaces sidebar plugin for Tern (Stencil's Rust-native terminal), written in Luau.
 - **[omp-model-profiles](https://github.com/rezhajulio/omp-model-profiles)** — Dynamic model profile switcher for Oh My Pi (OMP); swap agent model configs on the fly. TypeScript, Bun.
@@ -105,7 +107,7 @@ Latest merged PRs to projects outside my own.
 
 ## 🌱 Currently
 
-Sharpening **Rust** — most recently through telegateway (Axum, SQLite outbox, OpenTelemetry).
+Shipping side projects in Go and Rust — synccit-go and telegateway v0.1.4 — maintaining the Komikku Android fork, and building a self-hosted WAF for Kubernetes/Istio with my hackathon team Max Verboden.
 
 ## 📫 Reach me
 
