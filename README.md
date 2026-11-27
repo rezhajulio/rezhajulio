@@ -27,11 +27,11 @@ I co-organize PyCon Indonesia — previously the PythonID meetup in Jakarta (201
 ⭐ Featured: [I Refuse to Let the Loop Ship My Code](https://rezhajul.io/posts/i-refuse-to-let-the-loop-ship-my-code/) — why I keep a human at the approval gate for AI-written code.
 
 <!-- BLOG-POSTS:START -->
+- [I built my own country blocking instead of paying for Wordfence Premium](https://rezhajul.io/posts/country-blocking-without-wordfence-premium/) — Nov 26, 2026
 - [Building a Telegram bot to babysit 24,000 developers](https://rezhajul.io/posts/building-pythonid-bot-telegram-group-management/) — Nov 25, 2026
 - [How telegateway Avoids Losing Telegram Webhooks](https://rezhajul.io/posts/how-telegateway-avoids-losing-telegram-webhooks/) — Nov 25, 2026
 - [Trying bun lint on my Astro blog](https://rezhajul.io/posts/trying-bun-lint-on-my-astro-blog/) — Nov 08, 2026
 - [Porting Synccit to Go](https://rezhajul.io/posts/porting-synccit-to-go/) — Nov 08, 2026
-- [Serving this blog over Gemini](https://rezhajul.io/posts/serving-this-blog-over-gemini/) — Nov 04, 2026
 <!-- BLOG-POSTS:END -->
 
 ## 🌍 Open-source contributions
